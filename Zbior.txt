@@ -1,0 +1,8 @@
+1;Julian;Verne;Dokola Swiata w 80 dni;3daB
+2;Julian;Tuwim;Lokomotywa;8dwz
+3;Fiodor;Dostojewski;Zbrodnia i Kara;23sd
+4;Jan;Brzechwa;Lokomotywa;6seq1
+5;Maria;Konopnicka;Sierotka Marysia;44rs
+6;Malgorzata;Musierewicz;iaba;23de
+7;Joe;Nesbo;Policjant;2e42
+8;Maria;Konopnicka;Sierotka Marysia;44rs

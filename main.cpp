@@ -198,15 +198,18 @@ int main(int argc, const char * argv[])
     
     //----------------SEPARATE---FILES-------------------------//
 
-  
+    int tmp;
+
+    for( ;; )
+    {
+
     cout<<"MAIN MENU: "<<endl;
     cout<<"1. My profile "<<endl;
     cout<<"2. Browse collection of books"<<endl;
     cout<<"3. Look for the books"<<endl;
     cout<<"4. Borrow a book"<<endl;
     
-    int tmp;
-    cin>>tmp;
+        cin>>tmp;
 
     switch( tmp )
     {
@@ -369,7 +372,9 @@ int main(int argc, const char * argv[])
     }
     // ------------------------------------------------------------------------------
 
-
-    
+        getchar();
+        getchar();
+        system("cls");
+    }
             return 0;
         }
